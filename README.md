@@ -94,17 +94,6 @@ Standard AmigaX:
     8 hardware sprites
     AGA-compatible chipset
 
-Enhanced AmigaX:
-
-    Up to 3840x2160 (4K) resolution
-    32 bitplanes (4.2 billion colors)
-    256 hardware sprites (up to 128x128 pixels each)
-    Multiple display modes: indexed, RGB15/16/24, RGBA32, HAM8/24, chunky
-    Alpha blending for sprites
-    Hardware-accelerated blitter with alpha support
-    16 independent 256-color palettes
-    32 DMA channels
-    Enhanced Copper (display list processor)
 
 Key File Structure
 Core Implementation Files
